@@ -221,12 +221,12 @@ footer ul li:hover {
     transition: .5s;
 }
 
-.left_footer {
+li.left_footer {
     font-size: 12px;
     float: left;
 }
 
-.heading {
+p.heading {
     font-size: 35px;
     margin-left: 500px;
     text-transform: uppercase;
@@ -234,7 +234,7 @@ footer ul li:hover {
     color: #e72910;
 }
 
-.heading1 {
+p.heading1 {
     font-size: 35px;
     margin-left: 500px;
     text-transform: uppercase;
@@ -244,22 +244,22 @@ footer ul li:hover {
     border-color: #fff;
 }
 
-.body2 p {
-   font-size: 25px;
+div.body2 p {
+    font-size: 25px;
     padding-left: 2%;
 }
 
-.body3 p {
+div.body3 p {
     font-size: 25px;
-     padding-left: 2%;
- }
+    padding-left: 2%;
+}
 
- .body4 p {
+div.body4 p {
     font-size: 25px;
-     padding-left: 2%;
- }
+    padding-left: 2%;
+}
 
-.body1 {
+div.body1 {
     margin-top: 50px;
     margin-left: 350px;
     margin-right: 350px;
@@ -269,5 +269,5 @@ footer ul li:hover {
 
 #src {
     font-style: italic;
-    font-weight: 300;
+    font-weight: 800;
 }
