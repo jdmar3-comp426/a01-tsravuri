@@ -234,6 +234,16 @@ footer ul li:hover {
     color: #e72910;
 }
 
+.heading1 {
+    font-size: 35px;
+    margin-left: 500px;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    color: #e72910;
+    border-style: solid;
+    border-color: #fff;
+}
+
 .body2 p {
    font-size: 25px;
     padding-left: 2%;
